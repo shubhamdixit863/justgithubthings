@@ -1,7 +1,8 @@
 1-git init  ---which initiallizes and empty repoitory
 // when you initialize git in a folder that folder technically get converted into a repository
 
-git add filename
+git add filename  
+// shortcut --> git add .   // all files into git
 
 // it makes aware to git that following file has been changed
 
@@ -10,7 +11,7 @@ git commit  -m "i have added two new files"
 
 // saves your changes in the git tracking in you repository
 
-
+/// run only once
 git remote add origin "origin name"
 // Adds a remote repoitory to your local repoitory
 
@@ -18,3 +19,9 @@ git remote add origin "origin name"
 git push -u origin branchname
 
 // pushes or sends your local code to the remote repository
+
+
+
+git clone repoitoryurl 
+
+// clones the repository on your local system
