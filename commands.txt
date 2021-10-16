@@ -1,0 +1,11 @@
+1-git init  ---which initiallizes and empty repoitory
+// when you initialize git in a folder that folder technically get converted into a repository
+
+git add filename
+
+// it makes aware to git that following file has been changed
+
+
+git commit  -m "i have added two new files"
+
+// saves your changes in the git tracking in you repository
