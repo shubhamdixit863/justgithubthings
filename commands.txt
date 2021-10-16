@@ -9,3 +9,12 @@ git add filename
 git commit  -m "i have added two new files"
 
 // saves your changes in the git tracking in you repository
+
+
+git remote add origin "origin name"
+// Adds a remote repoitory to your local repoitory
+
+
+git push -u origin branchname
+
+// pushes or sends your local code to the remote repository
