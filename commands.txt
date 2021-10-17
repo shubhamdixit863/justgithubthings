@@ -25,3 +25,14 @@ git push -u origin branchname
 git clone repoitoryurl 
 
 // clones the repository on your local system
+
+
+
+///conflicts   ------>
+
+
+/// what are conflicts ?
+/// conflicts arise when you have different version of same file in your local and in your remote
+
+
+///  git pull origin branchname    -->this is used to get the remote changes from the github
