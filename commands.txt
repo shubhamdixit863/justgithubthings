@@ -25,3 +25,18 @@ git push -u origin branchname
 git clone repoitoryurl 
 
 // clones the repository on your local system
+
+
+
+
+//Branches --->
+
+git branch ---- helps to check the branch of git in which we are currently
+
+
+///  create a new branch
+git branch branchName  --->helps to create a new branch
+
+
+/// move to another branch
+git checkout branchname
