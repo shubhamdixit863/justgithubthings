@@ -36,3 +36,5 @@ git clone repoitoryurl
 
 
 ///  git pull origin branchname    -->this is used to get the remote changes from the github
+
+//git merge branchname   // merging the content of one branch into another
