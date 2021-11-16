@@ -2,7 +2,7 @@
 // when you initialize git in a folder that folder technically get converted into a repository
 
 git add filename  
-// shortcut --> git add .   // all files into git
+// shortcut --> git add .   // add all files into git
 
 // it makes aware to git that following file has been changed
 
@@ -15,6 +15,17 @@ git commit  -m "i have added two new files"
 git remote add origin "origin name"
 // Adds a remote repoitory to your local repoitory
 
+/// Branching
+git branch -->to see all the branches in your repository /the branch you are currently in 
+// will be highlited
+git branch branchName
+
+git checkout branchName // moves you to another branch
+
+
+
+
+
 
 git push -u origin branchname
 
@@ -24,7 +35,7 @@ git push -u origin branchname
 
 git clone repoitoryurl 
 
-// clones the repository on your local system
+// clones the remote repository on your local system
 
 
 
