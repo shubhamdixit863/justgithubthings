@@ -59,3 +59,4 @@ git clone repoitoryurl
 before commitiing ----->alwasy run git add .
 
 git add . ---->git commit --->git push
+//git merge and pull requuest
