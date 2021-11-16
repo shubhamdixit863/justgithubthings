@@ -28,11 +28,25 @@ git clone repoitoryurl
 
 
 
-///conflicts   ------>
-
-
 /// what are conflicts ?
 /// conflicts arise when you have different version of same file in your local and in your remote
 
 
 ///  git pull origin branchname    -->this is used to get the remote changes from the github
+
+
+//Branches --->
+
+git branch ---- helps to check the branch of git in which we are currently
+
+
+///  create a new branch
+git branch branchName  --->helps to create a new branch
+
+
+/// move to another branch
+git checkout branchname
+
+///conflicts   ------>
+
+
